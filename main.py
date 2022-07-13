@@ -2,7 +2,6 @@
 # pyinstaller -F -w main.py
 import datetime
 import sys
-
 from des import *
 
 
